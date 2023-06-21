@@ -4,7 +4,7 @@ A React Native Project called "Job-Scout". Download the `expo go` app in your mo
 
 ### Overview
 
-![Job-Scout](https://i.ibb.co/cbNmRP5/My-project-1.png)
+![Job-Scout](https://i.ibb.co/Pxh0kNg/job-scout.png)
 
 - Developed a job search application with two main sections: Popular Jobs and Nearby Jobs.
 - Implemented search functionality to allow users to search for jobs based on their preferences, including full-time, part-time or contractor basis.
